@@ -2,6 +2,10 @@
 
 ## ChatGPT(Codex)
 
+<p align="center">
+  <img src="../.github/assets/mem.png" width="300" alt="Mem">
+</p>
+
 ### prompts
 
 1. Проверка перед commit, проверь все скриншоты на имя компьютера/пользователя, Product ID, серийные номера, IP, MAC и личные пути.  И скажи на каком из скринов это есть что бы потом убрать.
